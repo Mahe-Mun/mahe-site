@@ -1,0 +1,58 @@
+body {
+    background-image: radial-gradient(rgb(202, 197, 197), black);
+    color: #fff;
+}
+
+.about-us {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.heading {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.para2 {
+    font-size: 25px;
+    letter-spacing: 1px;
+    padding: 20px;
+    color: #fff;
+    line-height: 40px;
+}
+
+.para {
+    font-size: 25px;
+    letter-spacing: 1px;
+    padding: 20px;
+    line-height: 40px;
+}
+
+.About {
+    padding: 30px;
+    color: white;
+}
+
+.heading2 {
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    color: #000;
+}
+
+.Letter {
+    padding: 30px;
+    background-color: rgb(230, 216, 216);
+    margin: 100px;
+    border-radius: 50px;
+}
+
+.para {
+    color: #000;
+}
