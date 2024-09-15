@@ -14,12 +14,42 @@ h1 {
 }
 
 p {
-  text-align: center;
-  font-size: 18px;
-  color: #333;
+    padding: 10px 200px;
+    text-align: center;
+    font-size: 18px;
+    color: #AAA;
 }
 
 main {
   padding: 20px;
 }
 
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+}
+
+body {
+    background-color: black;
+}
+
+* {
+    color: white;
+}
+
+
+#navbar_links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navbar_item {
+    margin: 10px;
+}
+
+
+p {
+}
