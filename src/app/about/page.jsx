@@ -8,7 +8,7 @@ export default function About() {
         <h2 className='heading'>About MAHE</h2><hr></hr>
         <p className='para2'>Manipal Academy of higher education, hooked up in 1953, is one in all India’s leading non-public universities, famed for its commitment to academic excellence, studies, and innovation. Over the many years, MAHE has evolved into a hub of world education, housing students from over 57 international locations and imparting a huge range of packages throughout various disciplines. The college’s dedication to producing international-class specialists extends beyond lecturers, fostering a lifestyle of highbrow curiosity, leadership, and holistic development.</p></div>
       <div className='Letter'>
-        <h2 className='heading2'>Letter from the 2025 Secretary-General</h2><hr></hr>
+        <h2 className='heading2'>Letter from the Secretary-General</h2><hr></hr>
         <p className='para'>
           Dear Delegates and Faculty Advisors,<br />
           My name is Amlan Ghosh, and as the Secretary-General, it is my distinct honor to invite you to the maiden edition of MAHE Model United Nations, taking place in February 2025. This marks the first time MAHE MUN will be held, and we are beyond excited to embark on this journey together, offering an experience that we believe will set a new standard for Model UN conferences in the region.        </p>

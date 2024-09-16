@@ -1,5 +1,5 @@
 body {
-    background-image: radial-gradient(rgb(202, 197, 197), black);
+    background-image: linear-gradient(rgb(214, 208, 208), black);
     color: #fff;
 }
 
@@ -17,20 +17,14 @@ body {
     font-size: 50px;
     display: flex;
     justify-content: center;
+    color: #000;
 }
 
 .para2 {
     font-size: 25px;
     letter-spacing: 1px;
     padding: 20px;
-    color: #fff;
-    line-height: 40px;
-}
-
-.para {
-    font-size: 25px;
-    letter-spacing: 1px;
-    padding: 20px;
+    color: black;
     line-height: 40px;
 }
 
@@ -54,5 +48,16 @@ body {
 }
 
 .para {
+    font-size: 25px;
+    letter-spacing: 1px;
+    padding: 20px;
+    line-height: 40px;
     color: #000;
+    display: flex;
+    justify-content: flex-start
+}
+
+
+p {
+    text-align: left;
 }
